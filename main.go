@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"time"
 
-	kafka "github.com/bwNetFlow/kafkaconnector"
+	kafka "github.com/SubmergedTree/kafkaconnector"
 	"github.com/bwNetFlow/processor_enricher/enrichers"
 )
 

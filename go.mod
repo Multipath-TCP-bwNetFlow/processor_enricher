@@ -9,7 +9,7 @@ require (
 	github.com/alouca/gosnmp v0.0.0-20170620005048-04d83944c9ab
 	github.com/bsm/sarama-cluster v2.1.15+incompatible // indirect
 	github.com/bwNetFlow/ip_prefix_trie v0.0.0-20190717112653-3fe50ea5b638
-	github.com/bwNetFlow/kafkaconnector v0.0.0-20201026123259-b5b86cfb0ae8
+	github.com/SubmergedTree/kafkaconnector v0.0.0-20210107093903-ad3f6b7ad611
 	github.com/bwNetFlow/protobuf/go v0.0.0-20201022144742-933b7710ed05
 	github.com/eapache/go-resiliency v1.2.0 // indirect
 	github.com/gogo/protobuf v1.3.1 // indirect
